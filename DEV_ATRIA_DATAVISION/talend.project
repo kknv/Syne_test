@@ -376,4 +376,7 @@
     <migrationTask xmi:id="_E0e-yjT9EemkU-3IQmuR0A" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_DJOWwjT9EemkU-3IQmuR0A" login="varsha.shrivastava@synechron.com" firstName="Varsha" lastName="Shrivastava" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WZMyoDT9EemkU-3IQmuR0A" login="ritesh.rathore@synechron.com" firstName="Ritesh" lastName="Rathore" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WZMyoTT9EemkU-3IQmuR0A" login="gauri.jagtap@synechron.com" firstName="Gauri" lastName="Jagtap" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WZMyojT9EemkU-3IQmuR0A" login="nataraj.kesana@synechron.com" firstName="Nataraj" lastName="Kesana" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
